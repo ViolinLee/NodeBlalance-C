@@ -1,4 +1,4 @@
-![banner](resource/nodebalance.jpg)
+![banner](resource/NodeBalance.jpg)
 
 # NodeBalance V1
 Stepper motor balancing robot project using NodeMCU32S and ESP32CAM coding with C++.   
