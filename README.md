@@ -12,3 +12,6 @@ will soon...
 * [esp32 wifi balancing robot](https://github.com/bluino/esp32_wifi_balancing_robot) by bluino.   
 * [esp32 audio](https://github.com/atomic14/esp32_audio) repository by atomic14.
 
+
+## Demonstration (Video)
+[Bilibili: B站蠢萌平衡小车](https://www.bilibili.com/video/BV1Pg411N7Cg/)   
