@@ -14,4 +14,4 @@ will soon...
 
 
 ## Demonstration (Video)
-[Bilibili: B站蠢萌平衡小车](https://www.bilibili.com/video/BV1Pg411N7Cg/)   
+[Bilibili: B站蠢萌平衡小车](https://www.bilibili.com/video/BV1oS4y1n7FK/)   
